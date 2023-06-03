@@ -1,0 +1,7 @@
+artifact_location: sqlite:///mlflow.db
+creation_time: 1685194215232
+experiment_id: '501854218104428174'
+last_update_time: 1685194237436
+lifecycle_stage: deleted
+name: nyc-taxi-experiment
+tags: {}

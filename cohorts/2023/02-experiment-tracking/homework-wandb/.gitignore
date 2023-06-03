@@ -1,0 +1,4 @@
+*.pkl
+wandb/
+data/**.csv
+artifacts/
